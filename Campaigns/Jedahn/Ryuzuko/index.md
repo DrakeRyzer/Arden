@@ -7,7 +7,7 @@ grand_parent: Arden Campaigns
 # Ryuzuko Shochraos
 #### Member of the Ajentodon
 
-<img src="https://i.imgur.com/L1cwbt1.png"  width="300">
+<img src='https://i.imgur.com/aQ5cGft.png' style='position:absolute; top:70px; right:90px; width:260px; z-index:1000;'>
 
 **Species:** Silver Dragonkin<br>
 **Homeland:** Hyōnosen region of Je'dahn<br>
